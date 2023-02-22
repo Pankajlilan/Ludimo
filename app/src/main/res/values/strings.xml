@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ludimos</string>
+    <string name="show_stump_line">Show Stump Line</string>
+    <string name="hide_stump_line">Hide Stump Line</string>
+    <string name="this_imageview_is_for_showing_stumpline">This imageview is for showing Stumpline</string>
+    <string name="this_imageview_is_for_animation">This image view is for showing animation</string>
+</resources>
